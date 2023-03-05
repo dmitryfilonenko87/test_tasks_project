@@ -1,0 +1,6 @@
+tests/age_test/AdultTest.java
+ tests.age_test.AdultTest
+tests/age_test/UnitTest.java
+ tests.age_test.UnitTest
+tests/selenide_test/GoogleTest.java
+ tests.selenide_test.GoogleTest
