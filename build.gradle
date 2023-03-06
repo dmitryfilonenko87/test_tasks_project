@@ -15,5 +15,7 @@ dependencies {
 }
 
 test {
-    useJUnitPlatform()
+    useTestNG()
+    systemProperties System.properties
+    dependsOn 'cleanTest'
 }
